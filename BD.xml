@@ -1,0 +1,134 @@
+<Base>
+    <dblp>
+        <inproceedings key="conf/www/IEEE" mdate="2021-01-06">
+            <author>salah romdan</author>
+            <author>karim bensima</author>
+            <author>cristiano ronaldo</author>
+            <author>hamdi karkar</author>
+            <title>Deep learning</title>
+            <pages>823-839</pages>
+            <year>2019</year>
+            <booktitle>Deep</booktitle>
+            <ee>https://doi.org/10.1145/3308560.3317072</ee>
+            <crossref>conf/www/2019c</crossref>
+            <url>db/conf/www/www2019c.html#AcostaBDDIJVZ19</url>
+        </inproceedings>
+    </dblp>
+    <dblp>
+        <inproceedings key="conf/www/ACM" mdate="2022-10-08">
+            <author>jhon maqin</author>
+            <author>hamdi karkar</author>
+            <title>Linked Data Notifications</title>
+            <pages>823</pages>
+            <year>2021</year>
+            <booktitle>Data</booktitle>
+            <ee>https://doi.org/10.1145/3308560.3317072</ee>
+            <crossref>conf/www/2019c</crossref>
+            <url>db/conf/www/www2019c.html#AcostaBDDIJVZ19</url>
+        </inproceedings>
+    </dblp>
+    <dblp>
+        <inproceedings key="conf/www/AKJ" mdate="2022-09-08">
+            <author>jhon maqin</author>
+            <author>hamdi karkar</author>
+            <title>best search</title>
+            <pages>100</pages>
+            <year>2022</year>
+            <booktitle>tree</booktitle>
+            <ee>https://doi.org/10.1145/3308560.3317072</ee>
+            <crossref>conf/www/2019c</crossref>
+            <url>db/conf/www/www2019c.html#AcostaBDDIJVZ19</url>
+        </inproceedings>
+    </dblp>
+    <dblp>
+        <inproceedings key="conf/www/AcostaBDDIJVZ19" mdate="2021-01-06">
+            <author>Maribel Acosta</author>
+            <author>Tim Berners-Lee</author>
+            <author>Anastasia Dimou</author>
+            <author>John Domingue</author>
+            <author>Luis-Daniel Ib&#225;&#241;ez</author>
+            <author>Krzysztof Janowicz</author>
+            <author>Maria-Esther Vidal</author>
+            <author>Amrapali Zaveri</author>
+            <title>The FAIR TRADE Framework for Assessing Decentralised Data Solutions.</title>
+            <pages>823-839</pages>
+            <year>2019</year>
+            <booktitle>WWW (Companion Volume)</booktitle>
+            <ee>https://doi.org/10.1145/3308560.3317072</ee>
+            <crossref>conf/www/2019c</crossref>
+            <url>db/conf/www/www2019c.html#AcostaBDDIJVZ19</url>
+        </inproceedings>
+    </dblp>
+    <dblp>
+        <inproceedings key="conf/egose/BuyleTMJMVB19" mdate="2020-04-07">
+            <author>Raf Buyle</author>
+            <author>Ruben Taelman</author>
+            <author>Katrien Mostaert</author>
+            <author>Geroen Joris</author>
+            <author>Erik Mannens</author>
+            <author>Ruben Verborgh</author>
+            <author>Tim Berners-Lee</author>
+            <title>Streamlining Governmental Processes by Putting Citizens in Control of Their Personal Data.</title>
+            <pages>346-359</pages>
+            <year>2019</year>
+            <booktitle>EGOSE</booktitle>
+            <ee>https://doi.org/10.1007/978-3-030-39296-3_26</ee>
+            <crossref>conf/egose/2019</crossref>
+            <url>db/conf/egose/egose2019.html#BuyleTMJMVB19</url>
+        </inproceedings>
+    </dblp>
+    <dblp>
+        <inproceedings key="conf/esws/CapadisliG0ASB17" mdate="2020-06-15">
+            <author>Sarven Capadisli</author>
+            <author>Amy Guy</author>
+            <author orcid="0000-0001-9879-3827">Christoph Lange 0002</author>
+            <author>S&#246;ren Auer</author>
+            <author>Andrei Vlad Sambra</author>
+            <author>Tim Berners-Lee</author>
+            <title>Linked Data Notifications: A Resource-Centric Communication Protocol.</title>
+            <pages>537-553</pages>
+            <year>2017</year>
+            <booktitle>ESWC (1)</booktitle>
+            <ee>https://www.wikidata.org/entity/Q30096408</ee>
+            <crossref>conf/esws/2017-1</crossref>
+            <url>db/conf/esws/eswc2017-1.html#CapadisliG0ASB17</url>
+        </inproceedings>
+    </dblp>
+    <dblp>
+        <inproceedings key="conf/icwe/CapadisliGV0AB17" mdate="2020-06-15">
+            <author>Sarven Capadisli</author>
+            <author>Amy Guy</author>
+            <author>Ruben Verborgh</author>
+            <author orcid="0000-0001-9879-3827">Christoph Lange 0002</author>
+            <author>S&#246;ren Auer</author>
+            <author orcid="0000-0003-1279-3709">Tim Berners-Lee</author>
+            <title>Decentralised Authoring, Annotations and Notifications for a Read-Write Web with dokieli.</title>
+            <pages>469-481</pages>
+            <year>2017</year>
+            <booktitle>ICWE</booktitle>
+            <ee>https://www.wikidata.org/entity/Q30133458</ee>
+            <crossref>conf/icwe/2017</crossref>
+            <url>db/conf/icwe/icwe2017.html#CapadisliGV0AB17</url>
+        </inproceedings>
+    </dblp>
+    <dblp>
+        <inproceedings key="conf/www/LehmannACJBHHB17" mdate="2020-09-05">
+            <author orcid="0000-0001-9108-4278">Jens Lehmann 0001</author>
+            <author>S&#246;ren Auer</author>
+            <author>Sarven Capadisli</author>
+            <author>Krzysztof Janowicz</author>
+            <author orcid="0000-0003-2367-0237">Christian Bizer</author>
+            <author>Tom Heath</author>
+            <author>Aidan Hogan</author>
+            <author>Tim Berners-Lee</author>
+            <title>LDOW2017: 10th Workshop on Linked Data on the Web.</title>
+            <pages>1679-1680</pages>
+            <year>2017</year>
+            <booktitle>WWW (Companion Volume)</booktitle>
+            <ee>https://doi.org/10.1145/3041021.3055510</ee>
+            <crossref>conf/www/2017c</crossref>
+            <url>db/conf/www/www2017c.html#LehmannACJBHHB17</url>
+        </inproceedings>
+    </dblp>
+    
+<dblp><inproceeding Key="wwwconf junior" mdate="45/25/2"><author>karim kk </author><author>ahmed aa</author><author>chokri kk</author><title>time complexity</title><pages>200</pages><year>2022</year><booktitle>complexity</booktitle><ee>wwww.cdcds</ee><crossref>azdazazdzad</crossref><url>wwwwwwwwwwwwwwww</url></inproceeding></dblp></Base>
